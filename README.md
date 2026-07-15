@@ -20,7 +20,7 @@ This repository contains a comprehensive training module on "Phishing Awareness,
 ## 🎥 Video Presentation
 A detailed video walkthrough and explanation of this training module can be found on LinkedIn. 
 
-[▶️ Watch the Video Presentation Here]([])
+[▶️ Watch the Video Presentation Here]([https://www.linkedin.com/posts/ashraf-abwney-6ba7a53a2_cybersecurity-phishingawareness-codealpha-ugcPost-7482870272300072961-_XP2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGK3g64BWoWX-dzmavp_h0x6tWhmW7fvrkk])
 
 ## 👨‍💻 Author
 **Ashraf Abweny**  
